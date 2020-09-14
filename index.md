@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 하동원의 개발놀이터
+title: 동원'개발놀이터
 subtitle: Toy Project portfolio
 cover-img: /assets/img/developers.jpg
 ---
