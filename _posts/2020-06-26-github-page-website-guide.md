@@ -1,44 +1,19 @@
 ---
 layout: post
-title: How to Create Personal Website and Blog on GitHub
-subtitle: GitHub로 10분 만에 개인 웹사이트 및 블로그 만들기
-gh-repo: seokho-son/seokho-son.github.io
-gh-badge: [star, fork, follow]
-cover-img: /assets/img/cat-taesik-wide.jpg
-tags: [Website, Blog, GitHub, Guide, How to, Seokho Son, Open source]
-comments: true
+title: ALIVE 무인도에서 살아남기
+subtitle: 자바 텍스트 프로젝트
+tags: [java, project]
 ---
 
 ## 개요
 
-GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이드를 제공합니다.
+무인도에 갇힌 주인공은, 무인도에서 배고픔을 견디며 사냥과 채집을 통해 생존하고, 탈출을 하기 위해 재료를 모으거나 퀘스트를 통해 탈출 하는 방식
 
-이 가이드를 활용하여,
+## 동영상
 
-개인의 연구 커리어 정리 사이트, 연구 프로젝트의 사이트, 기술 블로그 개설 등 다양한 활용이 가능합니다.
-
-- Git는 분산 버전 관리 시스템 (DVCS, Distributed Version Control System)
-- GitHub는 Git를 사용하여 공동 개발하는 프로젝트의 저장소 관리 및 협업을 도와주는 서비스
-- GitHub Page란 GitHub가 정적 웹사이트를 무료로 호스팅하는 것을 의미 (계정당 1개)
-
-{: .box-note}
-이 포스트는 오픈소스 프로젝트의 주요 개발 플랫폼인 GitHub 경험 차원에서,
-**ETRI 연구원** 을 위해 게시하였습니다. &#128525;
-
-
-<br>
-
-## 데모 웹사이트
-
-이 가이드를 통해 10분 만에 아래 데모와 같이 웹사이트 개설이 가능합니다.
-
-데모 웹사이트 확인: [https://seokho-son.github.io](https://seokho-son.github.io)
-
-<br>
-
-## 웹사이트 생성 가이드
-
-이 저장소를 활용하여 개인 웹사이트를 생성하는 방법 가이드
+<video autoplay controls loop muted>
+  <source src="../assets/video/javaproject.mp4" type="video/mp4">
+</video>
 
 ### 동영상 가이드
 
