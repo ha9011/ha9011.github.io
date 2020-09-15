@@ -1,116 +1,96 @@
 ---
 layout: page
-title: Research Career
+title: 컴퓨터 경력사항
 ---
 
 <br/>
 
 
-# Research Experience
+# 컴퓨터 경력
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+### IT WILL 파이썬과 R을 통한 빅데이터, 머신러닝, 딥러닝 AI 교육
+#### 2017.04 ~ 2017.10
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+* 오라클 DB, PL-SQL
+* PYTHON 기초문법, pandas를 통한 데이터정리와 시각화, beautiful-soup과 Selenium을 통한 크롤링
+* TensorFlow를 통한 머신러닝, CNN, RNN, DeepLearning
+* R 기초문법, 통계, 머신러닝
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
+### 아인톱시스템
+#### 2018.03 ~ 2019.03(1년 1개월)
 
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
-
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student, 2006 to 2008
-
-* Project: _**Development of e-organ system based on cyber computing**_
-  * Role: development of a high resolution interactive brain visualization system (3D brain, MRI, and EIT images)
-* Project: _**Research on realistic digital broadcasting technology**_
-  * Role: development of a realistic broadcasting system
-* Project: _**Development of Immersive 3D networked virtual environment technology**_
-  * Role: development of a delay compensation mechanism to mitigate network delay problems in 3D network virtual environment with haptic devices
-
-<br/>
-
-# Professional Activity
-
-### Open Source Project Contribution
-
-* Kubernetes project contents owner
-  * Official member of Kubernetes organization (Github)
-  * Contributor of [Kubernetes/website](https://github.com/kubernetes/website) (approver/reviewer/contributor)
-  * Contributor of [Kubernetes/dashboard](https://github.com/kubernetes/dashboard) (approver/reviewer/contributor)
-* Cloud-Barista project owner
-  * Technical leader for [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug)
-  * Owner of [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project (approver/reviewer/contributor)
-  * Owner of [Cloud-Barista/CB-Operator](https://github.com/cloud-barista/cb-operator) (approver/reviewer/contributor)
-* Github Profile: [https://github.com/seokho-son](https://github.com/seokho-son)
-
-### Reviewer for Reputed Journals
-
-* ACM Computing Surveys (ACM)
-* IEEE Transactions on Cloud Computing (IEEE)
-* IEEE Transactions on Service Computing (IEEE)
-* Journal of Supercomputing (Springer)
-* Information Systems Frontier (Springer)
-* International Journal of Cloud Computing (Inderscience)
-* ETRI Journal (Wiley)
-
-### International Standardization
-
-* ITU-T SG13 : main contributor of Y.csb-reqts (recommendation for cloud service brokerage requirements)
-  * Activities to obtain editorship of Y.csb-reqts document (Geneva, June 2016)
-  * 19 proposals (contributions) have been accepted for Y.csb-reqts
-* ITU-T SG13 : main contributor of Y.mc-reqts (recommendation for multi-cloud requirements)
-  * Activities to obtain editorship of Y.mc-reqts document (Geneva, June 2019)
-  * 3 proposals (contributions) have been accepted for Y.mc-reqts
-* Committee of [Korea ITU Committee](https://www.koreaitu.or.kr/)
-
-### Conference Committee
-
-* Paper Session Chair: The 2012 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'12), Cloud Computing Session
-* Conference Committee: Mexico Satellite Session of IEEE BigData (Mexico City, May 8, 2014)
-
-### Invited Talk
-
-* Invited Talk regarding **_Introduction to Container-based Computing Platform (feat. Kubernetes)_**, 2020
-* Invited Talk regarding [**_Getting Involved in Kubernetes SIG Docs and Korean Localization_**](https://k8sforumseoul19eng.sched.com/event/WIRH/getting-involved-in-kubernetes-sig-docs-and-korean-localization-seokho-son-electronics-and-telecommunications-research-institute-etri-ian-choi-microsoft), Kubernetes Forum Seoul (LinuxFoundataion), 2019
-* Invited Talk regarding **_Cloud Computing with IoT_**, Handong-Univ., 2017
-* Invited Talk regarding **_Cloud Service Brokerage Systems_**, in the Education and Training for CSP experts sponsored by Consortium of Cloud Computing Research , 2016
-* Invited Talk regarding **_HPC over Cloud_**, in Korea Supercomputing Conference 2015, 2015
-* Invited Talk regarding **_HPC Cloud_**, in SCENT HPC Summer School at GIST, 2015
-* Invited Technical Committee for **_Cloud computing and Big data_**, National Computing & Information Agency (Government data center of Korea), 2012
-  * invited expert and lecturer of the SMART Cloud group in NCIA which is a national institute to operate information systems of Korea government. Made several lectures during a year regarding Cloud computing and big data to 30 public officials including senior civil servants.
-* Invited Expert for **_Cloud computing and parallel computing systems_**, Mokwon University in Korea, 2012-2013
-  * assisted a research team in Mokwon University to help the team construct a distributed computing system to process massive data from a large antenna.
+* 행정안전부 - 콜센터 챗봇 설치 
+* 2018.08~2019.02(7개월) 
+* 행정안전부의 '정부24'에 콜센터, 고객센터에 챗봇 기능 설치와 유지보수 프로젝트 참여
+* 솔루게이트란 회사와 협력하여, 콜센터의 음성데이터를 통해 자연어 분석, 딥러닝, 통계 및 분석
+* 롤베이스 기반으로 챗봇 로직 작성 
 
 
-<br/>
+### ICIA교육원 오픈플랫폼을 이용한 마이크로 웹 서비스 융합 개발자 과정
+#### 2019.10 ~ 2020.04 
 
-# Honor and Award
+* ∙JAVA 
+- JAVA 기본 문법
+- 객체지향 프로그래밍
+- 라이브러리 활용
+- Thread 활용
+- Collection Framework, JDBC
 
-* Award from Startup Idea Contest 2020 of ETRI
-* Best Paper Presentation Award from Korea Information Science Society	2014
-  * Best paper presentation in Korea Computer Congress 2014
-* Best Paper Presentation Award from Korea Information Science Society	2012
-  * Best paper presentation in Korea Computer Congress 2012
-* Amazon Web Services (AWS) in Education Research Grant	2012
-  * A research proposal has been accepted from Amazon Web Services, Inc
-* National Scholarship for PhD from Korea government	2009–2013
-  * Full financial support from Korea government as a PhD student in GIST  
-* National Scholarship for MS from Korea government	2006–2008
-  * Full financial support from Korea government as a MS student in GIST  
-* Brain Korea 21 (BK21) Scholarship (3 times)	2003–2005
-  * Scholarship from BK21 organized by Ministry of Education and Human Resources Development of South Korea.
-* Pukyong National University Scholarship for Top Student (2 times)	2005–2006
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+∙Web 
+- JSP 기본요소
+- 내장객체의 Scope 및 Attribute
+- Servlet, Session
+- Servlet 활용한 MVC 패턴
+- Spring Framework
+- WebSocket
+- MyBatis
+- Spring Security
+
+∙데이터베이스 
+- Oracle DBMS 주요설정, 사용 기술 및 관리도구 활용
+- 주요 함수의 활용
+- DML, DCL, DDL 명령문 작성
+- 뷰, 조인 및 서브쿼리
+- 시퀀스, 인덱스, 제약조건 설정
+- E-R 모델링 도구 활용 능력(ERDCloud)
+
+∙front-end 
+- HTML
+- CSS
+- JavaScript
+- Jqurey
+- Bootstrap
+- AJAX
+
+∙개발산출문서 
+- 스토리보드
+- 요구사항정의서
+- UI설계서
+- DB설계서(DB기능별 쿼리문, DB Modeling, E-R Diagram)
+- 개발일정표
+- 기술소개서(Job List, Process Flow)
+- 테스트 내역서
+
+∙IDE 도구 
+- 활용능력(eclipse, editplus, brackets, visual studio)
+
+∙버전관리 
+- Github, Trello
+
+∙테스트도구 
+- eclipse debugger
+
+
+### CNB SOFT 근무중(현재)
+#### 2020.07.01 ~ 
+* 머신러닝 기반 노선버스 배차업무 무인화 시스템 개발
+* Spring 빌드, 환경설정과 백엔드, 프론트엔드 작업 
+
+
+# 자격증
+
+* 정보처리기사 2018.11  한국산업인력공단
+
+
+# 앞으로의 각오
+최고의 풀스택 개발자 뿐만 아니라 다재다능한, 협업에 최적화 된 개발자가 되고싶습니다.
