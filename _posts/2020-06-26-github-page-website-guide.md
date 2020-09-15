@@ -11,6 +11,4 @@ tags: [java, project]
 
 ## 동영상
 
-<video autoplay controls loop muted>
-  <source src="../video/javaproject.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ProO-0UMWHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
