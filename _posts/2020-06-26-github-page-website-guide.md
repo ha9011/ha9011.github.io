@@ -10,7 +10,7 @@ tags: [java, project]
 무인도에 갇힌 주인공은, 무인도에서 배고픔을 견디며 사냥과 채집을 통해 생존하고, 탈출을 하기 위해 재료를 모으거나 퀘스트를 통해 탈출 하는 방식
 
 ## 동영상
-* [동영상](https://www.youtube.com/watch?v=ProO-0UMWHU)
+* [자바프로젝트 동영상](https://www.youtube.com/watch?v=ProO-0UMWHU)
 
 ## 소감
 자바를 통한 첫 프로젝트이다.
