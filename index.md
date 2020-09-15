@@ -16,7 +16,7 @@ cover-img: /assets/img/developers.jpg
 
 3년 안에 웹개발 -> 풀스택 개발 목표
 
-상단에 **blog**를 클릭해주세요
+상단에 **Project**를 클릭해주세요
 
 ## Contact
 
