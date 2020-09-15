@@ -12,3 +12,5 @@ tags: [java, project]
 ## 동영상
 ㅎ
  {% include javaprojectvideo.html id="ProO-0UMWHU" %}  
+ 
+ {% include footer.html %}  
