@@ -7,7 +7,7 @@ comments: true
 ---
 ![0001](../assets/img/pythonProject1/python_R_page-0001.jpg)
 img/pythonProject1/
-
+<img src="../assets/img/pythonProject1/python_R_page-0001.jpg" width="50%">
 
 ![0001](../assets/img/pythonProject1/python_R_page-0001.jpg)
 
