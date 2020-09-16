@@ -21,24 +21,27 @@ comments: true
 
 
 
+<br><br><br>
 
 
 <img src="../assets/img/pythonProject1/python_R_page-0001.jpg" width="80%">
 
 
-
+<br><br><br>
+<hr>
 
 <img src="../assets/img/pythonProject1/python_R_page-0002.jpg" width="80%">
 ## 서울시 응답소 입니다.
 - 민원 사례중 최근 3년치 크롤러를 했습니다.
 
-
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0003.jpg" width="80%">
 ## 크롤러로 모은 데이터의 단어 빈도수 입니다(R로 구현했습니다)
 
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0004.jpg" width="80%">
 ## 단어 통계 입니다. 몇가지 단어들을 소거하여, 최종적인 빈도를 산출했습니다.
@@ -46,18 +49,21 @@ comments: true
 
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0005.jpg" width="80%">
 ## '흡연'을 포함한 문장들을 모아 분석해본 결과입니다.
 - 구역, 버스, 주변 등 공공장소 키워드와 아이, 주민, 우리 등 흡연에 따른 간접피해가 사료되는 키워드들이 많았습니다.
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0006.jpg" width="80%">
 ## 소셜 메트릭스를 통한 버즈량(단어 노출량)을 본 결과
 -간접흡연, 흡연구역에 대한 버즈량은 꾸준히 증가 했고, 길빵이란 단어도 새로 등장 하기 시작했습니다.
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0007.jpg" width="80%">
 ## 소셜 메트릭스를 통한 버즈량(단어 노출량)을 본 결과
@@ -65,37 +71,44 @@ comments: true
 - 흡연구역이 부족함에 따른 흡연자들의 불만을 파악할 수 있었습니다.
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0008.jpg" width="80%">
 ## word Cloud 와 social matrix를 통한 정리 입니다.
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0009.jpg" width="80%">
 ## 국민건강증진법에 있는 금연,흡연 구역에 따른 법 조항입니다.
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0010.jpg" width="80%">
 ## 공공데이터 기반으로한 서울시 안에 있는 금연, 흡연 구역에 대한 위치 입니다.
 - 금연 구역이 압도적으로 많습니다.
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0011.jpg" width="80%">
 ## 2차 사례
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0012.jpg" width="80%">
 
 
+<br><br><br>
 
 
 <img src="../assets/img/pythonProject1/python_R_page-0013.jpg" width="80%">
 # 해결방안
 
 
+<br><br><br>
 
 <img src="../assets/img/pythonProject1/python_R_page-0014.jpg" width="80%">
 # 프로젝트 아키텍쳐
