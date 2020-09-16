@@ -5,75 +5,74 @@ subtitle: 크롤러와 R을 활용하여...
 tags: [project, python]
 comments: true
 ---
-![0001](../assets/img/pythonProject1/python_R_page-0001.jpg)
-img/pythonProject1/
+
+
+
 <img src="../assets/img/pythonProject1/python_R_page-0001.jpg" width="50%">
 
-![0001](../assets/img/pythonProject1/python_R_page-0001.jpg)
+
+
+
+<img src="../assets/img/pythonProject1/python_R_page-0002.jpg" width="50%">
 
 
 
 
-![0002](../assets/img/pythonProject1/python_R_page-0002.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0003.jpg" width="50%">
 
 
 
 
-![0003](../assets/img/pythonProject1/python_R_page-0003.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0004.jpg" width="50%">
 
 
 
 
-![0004](../assets/img/pythonProject1/python_R_page-0004.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0005.jpg" width="50%">
 
 
 
 
-![0005](../assets/img/pythonProject1/python_R_page-0005.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0006.jpg" width="50%">
 
 
 
 
-![0006](../assets/img/pythonProject1/python_R_page-0006.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0007.jpg" width="50%">
 
 
 
 
-![0007](../assets/img/pythonProject1/python_R_page-0007.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0008.jpg" width="50%">
 
 
 
 
-![0008](../assets/img/pythonProject1/python_R_page-0008.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0009.jpg" width="50%">
 
 
 
 
-![0009](../assets/img/pythonProject1/python_R_page-0009.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0010.jpg" width="50%">
 
 
 
 
-![0010](../assets/img/pythonProject1/python_R_page-0010.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0011.jpg" width="50%">
 
 
 
 
-![0011](../assets/img/pythonProject1/python_R_page-0011.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0012.jpg" width="50%">
 
 
 
 
-![0012](../assets/img/pythonProject1/python_R_page-0012.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0013.jpg" width="50%">
 
 
 
 
-![0013](../assets/img/pythonProject1/python_R_page-0013.jpg)
-
-
-
-
-![0014](../assets/img/pythonProject1/python_R_page-0014.jpg)
+<img src="../assets/img/pythonProject1/python_R_page-0014.jpg" width="50%">
 
 
