@@ -19,24 +19,25 @@ tags: [Spring, java, Project]
 
 
 
-<br>
-
-* [발표영상](https://youtu.be/qxEnboezCFg)
-* [발표자료](https://www.slideshare.net/cloud-barista/cloudbarista-2-multicloud-infrastructure-integrated-operation-management)
-
-### 컨퍼런스 개요
-* 행사명 : Cloud-Barista 2nd Open Conference
-  * 부제 : “멀티 클라우드에 접속하다(Contact to the Multi-Cloud).”
-* 일   시 : 2020년 6월 3일(수) 14:00 ~ 18:00
-
-### 컨퍼런스 프로그램 및 발표 자료
-
-
-|   |                                                               |
+<br><br><br>
+# 메인페이지
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/main1.JPG" width="30%">   <img src="../assets/img/gabom/main2.JPG" width="30%"> <img src="../assets/img/gabom/main3.JPG" width="30%">|
 |  내용 |    - Main page 입니다. -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
 
+<br><br><br>
+# 숙박 page 1 - 호스트가 운영자에게 등록된 집
+| ------------------------------ | :----------------------------------: |
+|  사진 |   <img src="../assets/img/gabom/house1.JPG" width="90%"> <br>  <img src="../assets/img/gabom/house1_1.JPG" width="30%"> -> <img src="../assets/img/gabom/house1_2.JPG" width="30%"> -> <img src="../assets/img/gabom/house1_3.JPG" width="30%">|
+|  내용 |    - Main page 입니다.<br> -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
+|  사진 |   <img src="../assets/img/gabom/house1_4.JPG" width="45%"> -> <img src="../assets/img/gabom/house1_5.JPG" width="45%">|
+|  내용 |    - Main page 입니다.<br> -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
+
+<br><br><br>
+# 숙박 page 2 - 현 플렛폼에 원하는 숙소가 없을 경우, 크롤러를 통해 호텔스컴바인에서 원하는 숙소 데이터를 가져옴
+| ------------------------------ | :----------------------------------: |
+|  사진 |   <img src="../assets/img/gabom/main1.JPG" width="30%">   <img src="../assets/img/gabom/main2.JPG" width="30%"> <img src="../assets/img/gabom/main3.JPG" width="30%">|
+|  내용 |    - Main page 입니다.<br> -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
 
 
 
