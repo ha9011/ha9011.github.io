@@ -31,15 +31,15 @@ tags: [Spring, java, Project]
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |    <img src="../assets/img/gabom/house1_1.JPG" width="900px"> <hr> <img src="../assets/img/gabom/house1_2.JPG" width="900px"> <hr> <img src="../assets/img/gabom/house1_3.JPG" width="900px">|
-|  내용 |    - Main page 입니다.<br> -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
-|  사진 |   <img src="../assets/img/gabom/house1_4.JPG" width="45%"> -> <img src="../assets/img/gabom/house1_5.JPG" width="45%">|
-|  내용 |    - Main page 입니다.<br> -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
+|  내용 |    - 첫번째, 숙박 가능한 숙소들 리스트 <br> - 두번째, 원하는 숙소 클릭 후 예약모습(기존에 예약된 날짜는 disable 처리) <br> - 세번째, 숙박한 사람들의 리뷰나 comment 모습|
+|  사진 |   <img src="../assets/img/gabom/house1_4.JPG" width="900px"> <hr> <img src="../assets/img/gabom/house1_5.JPG" width="900px">|
+|  내용 |   - 첫번째, 지역을 검색합니다 <br> - 검색된 지역에 대한 숙소 리스트와 지도안에 마커로 표시했고, 마커에 포인트를 올리면 해당 숙소에 대한 사진이 나옵니다 |
 
 <br><br><br>
 # 숙박 page 2 - 현 플렛폼에 원하는 숙소가 없을 경우, 크롤러를 통해 호텔스컴바인에서 원하는 숙소 데이터를 가져옴
 |||
 | ------------------------------ | :----------------------------------: |
-|  사진 |   <img src="../assets/img/gabom/main1.JPG" width="30%">   <img src="../assets/img/gabom/main2.JPG" width="30%"> <img src="../assets/img/gabom/main3.JPG" width="30%">|
+|  사진 |   <img src="../assets/img/gabom/main1.JPG" width="900px">   <img src="../assets/img/gabom/main2.JPG" width="30%"> <img src="../assets/img/gabom/main3.JPG" width="30%">|
 |  내용 |    - Main page 입니다.<br> -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
 
 
