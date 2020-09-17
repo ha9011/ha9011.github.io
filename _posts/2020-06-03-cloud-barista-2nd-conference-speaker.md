@@ -39,8 +39,8 @@ tags: [Spring, java, Project]
 # 숙박 page 2 - 현 플렛폼에 원하는 숙소가 없을 경우, 크롤러를 통해 호텔스컴바인에서 원하는 숙소 데이터를 가져옴
 |||
 | ------------------------------ | :----------------------------------: |
-|  사진 |   <img src="../assets/img/gabom/main1.JPG" width="900px">   <img src="../assets/img/gabom/main2.JPG" width="30%"> <img src="../assets/img/gabom/main3.JPG" width="30%">|
-|  내용 |    - Main page 입니다.<br> -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
+|  사진 |   <img src="../assets/img/gabom/house2_1.JPG.JPG" width="900px"> <hr>   <img src="../assets/img/gabom/house2_2.JPG" width="900px%"> |
+|  내용 |    - 첫번째, 지역과 날짜를 검색할 경우, 크롤러를 통해 호텔스컴바인의 데이터를 가져왔습니다..<br> -두번째, 숙소 클릭시, 호텔스컴바인 홈페이지로 이동하게 됩니다.|
 
 
 
