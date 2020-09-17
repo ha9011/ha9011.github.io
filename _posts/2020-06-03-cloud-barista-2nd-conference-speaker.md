@@ -34,7 +34,7 @@ tags: [Spring, java, Project]
 
 |   |                                                               |
 | ------------------------------ | :----------------------------------: |
-|  사진 |   <img src="../assets/img/gabom/main1.jpg" width="30%">   <img src="../assets/img/gabom/main2.jpg" width="30%"> <img src="../assets/img/gabom/main3.jpg" width="30%">|
+|  사진 |   <img src="../assets/img/gabom/main1.JPG" width="30%">   <img src="../assets/img/gabom/main2.JPG" width="30%"> <img src="../assets/img/gabom/main3.JPG" width="30%">|
 |  내용 |                     ㅎㅎ     |
 
 
