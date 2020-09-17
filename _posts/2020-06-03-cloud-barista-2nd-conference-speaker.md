@@ -31,7 +31,7 @@ tags: [Spring, java, Project]
 
 ### 컨퍼런스 프로그램 및 발표 자료
 
-| 사진 | 내용 |
+| 사진 |                                    내용                                            |
 | ------------------------------ | :----------------------------------: |
 |<img src="../assets/img/pythonProject1/python_R_page-0001.jpg" width="30%"> | 강동재<BR>커뮤니티 리더  [[SlideShare](https://www.slideshare.net/cloud-barista/cloudbarista-2-cloudbarista-2st-open-seminar-cloudbarista-technology-and-open-source-community-235056632)] [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.2.0-cappuccino/ppt_files/Cappuccino-OpenSeminar-1-Cloud-Barista%20Technology%20and%20Open%20Source%20Community.pdf)] [[YouTube](https://youtu.be/_cwAZsIAWjg)] |
 | CB-Spider : 전세계 클라우드를 엮는 그날까지<BR>(멀티 클라우드 인프라 연동) | 김병섭 CB-Spider<BR>프레임워크 리더 | [[SlideShare](https://www.slideshare.net/cloud-barista/cloudbarista-2-interworking-with-multicloud-infrastructure-235058344)] [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.2.0-cappuccino/ppt_files/Cappuccino-OpenSeminar-2-CB-Spider-Interworking%20with%20multi-cloud%20infrastructure.pdf)] | [[YouTube](https://youtu.be/qjflPwN_Y-M)] |
