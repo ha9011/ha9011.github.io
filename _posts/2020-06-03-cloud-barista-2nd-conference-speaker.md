@@ -35,7 +35,7 @@ tags: [Spring, java, Project]
 |   |                                                               |
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/main1.JPG" width="30%">   <img src="../assets/img/gabom/main2.JPG" width="30%"> <img src="../assets/img/gabom/main3.JPG" width="30%">|
-|  내용 |    - Main page 입니다. -첫번째 사진은 메뉴들이 있고, -두번째 사진엔 인기있는 여행계획 순위입니다. -세번째는 최근 예약한 숙소,음식점 입니다.|
+|  내용 |    - Main page 입니다. -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
 
 
 
