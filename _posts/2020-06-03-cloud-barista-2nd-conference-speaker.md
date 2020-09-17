@@ -1,21 +1,23 @@
 ---
 layout: post
-title: Cloud-Barista 2nd Open Conference Speaker
-subtitle: Cloud-Barista 오픈 컨퍼런스 발표
-gh-repo: seokho-son/seokho-son.github.io
-gh-badge: [star, fork, follow]
-cover-img: /assets/img/path.jpg
-tags: [Cloud-Barista, CB-Tumblebug, Multi-cloud, seokho son, open source]
-comments: true
+title: GABOM 프로젝트 
+subtitle: 여행, 채팅 등 복합적 여행 플렛폼
+cover-img: /assets/img/gabom/gabom.jpg
+tags: [Spring, java, Project]
 ---
 
-오픈소스 멀티 클라우드 플랫폼 프로젝트인 [Cloud-Barista의 두 번째 릴리스 행사](https://www.allshowtv.com/detail.html?idx=199)에서
 
-[CB-Tumblebug : 최적 멀티 클라우드 인프라를 찾아서](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.2.0-cappuccino/ppt_files/Cappuccino-OpenSeminar-3-CB-Tumblebug-Multi-cloud%20infrastructure%20integrated%20operation%20management.pdf)라는 주제로
+## 스프링으로 웹구현한 GABOM 프로젝트 입니다.
+- 4인(하동원 - 조장, 이예상, 김성준, 마재환)
+- 전반적인 아이디어, DB 설계, 비지니스로직 구현 등 포괄적인 업무를 담당 했습니다.
 
-발표를 진행하였습니다.
+## 작품명과 소개
+- GABOM (여행을 떠나다)
+- 단순 예약이 아닌, 여행계획을 공유하고 숙박, 음식 그리고 SNS, 소모임 까지 할 수 있도록 구현한 복합 여행 플렛폼
+- 담당 분야 : 소모임, 예약, 여행 공유 API 지도 구현, 공공데이터 API(여행장소), 채팅 등 구현
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qxEnboezCFg" frameborder="0" allowfullscreen></iframe>
+
+
 
 <br>
 
