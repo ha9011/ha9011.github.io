@@ -30,7 +30,7 @@ tags: [Spring, java, Project]
 # 숙박 page 1 - 호스트가 운영자에게 등록된 집
 |||
 | ------------------------------ | :----------------------------------: |
-|  사진 |    <img src="../assets/img/gabom/house1_1.JPG" width="300px"> -> <img src="../assets/img/gabom/house1_2.JPG" width="300px"> -> <img src="../assets/img/gabom/house1_3.JPG" width="300px">|
+|  사진 |    <img src="../assets/img/gabom/house1_1.JPG" width="500px"> <hr> <img src="../assets/img/gabom/house1_2.JPG" width="500px"> <hr> <img src="../assets/img/gabom/house1_3.JPG" width="500px">|
 |  내용 |    - Main page 입니다.<br> -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
 |  사진 |   <img src="../assets/img/gabom/house1_4.JPG" width="45%"> -> <img src="../assets/img/gabom/house1_5.JPG" width="45%">|
 |  내용 |    - Main page 입니다.<br> -첫번째 사진은 메뉴들이 있고,<br> -두번째 사진엔 인기있는 여행계획 순위입니다. <br>-세번째는 최근 예약한 숙소,음식점 입니다.|
