@@ -31,6 +31,12 @@ tags: [Spring, java, Project]
 
 ### 컨퍼런스 프로그램 및 발표 자료
 
+
+|   |                                                               |
+| ------------------------------ | :----------------------------------: |
+|  사진 |                        <img src="../assets/img/pythonProject1/python_R_page-0001.jpg" width="30%">       |
+|  내용 |                     ㅎㅎ     |
+
 | 사진 |                                    내용                                            |
 | ------------------------------ | :----------------------------------: |
 |<img src="../assets/img/pythonProject1/python_R_page-0001.jpg" width="30%"> | 강동재<BR>커뮤니티 리더  [[SlideShare](https://www.slideshare.net/cloud-barista/cloudbarista-2-cloudbarista-2st-open-seminar-cloudbarista-technology-and-open-source-community-235056632)] [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.2.0-cappuccino/ppt_files/Cappuccino-OpenSeminar-1-Cloud-Barista%20Technology%20and%20Open%20Source%20Community.pdf)] [[YouTube](https://youtu.be/_cwAZsIAWjg)] |
