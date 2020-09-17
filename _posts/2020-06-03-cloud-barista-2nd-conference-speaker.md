@@ -2,7 +2,7 @@
 layout: post
 title: GABOM 프로젝트 
 subtitle: 여행, 채팅 등 복합적 여행 플렛폼
-cover-img: /assets/img/gabom/gabom.JPG
+cover-img: ../assets/img/gabom/gabom.JPG
 tags: [Spring, java, Project]
 ---
 
@@ -34,8 +34,13 @@ tags: [Spring, java, Project]
 
 |   |                                                               |
 | ------------------------------ | :----------------------------------: |
-|  사진 |                        <img src="../assets/img/pythonProject1/python_R_page-0001.jpg" width="30%">       |
+|  사진 |   <img src="../assets/img/gabom/main1.jpg" width="30%">   <img src="../assets/img/gabom/main2.jpg" width="30%"> <img src="../assets/img/gabom/main3.jpg" width="30%">|
 |  내용 |                     ㅎㅎ     |
+
+
+
+
+
 
 | 사진 |                                    내용                                            |
 | ------------------------------ | :----------------------------------: |
