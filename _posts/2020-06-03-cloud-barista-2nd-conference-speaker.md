@@ -62,7 +62,7 @@ tags: [Spring, java, Project]
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/jungmo_1.JPG" width="900px"> |
 |  내용 |    소모임 첫화면입니다, 방장은 정모를 만들 수 있으며, <br> 만들어진 정모에 내용과 참석 여부, 참석자 명단을 볼 수 있습니다.|
-|  사진 |   <img src="../assets/img/gabom/jungmo_2.JPG" height="300px%" width="30%">  <img src="../assets/img/gabom/jungmo_3.JPG" height="300px" width="30%"> <img src="../assets/img/gabom/jungmo_4.JPG" height="300px" width="30%"> |
+|  사진 |   <img src="../assets/img/gabom/jungmo_2.JPG" height="300px" width="30%">  <img src="../assets/img/gabom/jungmo_3.JPG" height="300px" width="30%"> <img src="../assets/img/gabom/jungmo_4.JPG" height="300px" width="30%"> |
 |  내용 |    - 첫번째, 정모를 만들기 위한 form 이며 지도API도 구현. <br> -두번째, 만들어진 정모에 대한 내용을 보는 화면. <br> -세번째, 참석자 리스트.|
 
 <br><br><br>
@@ -71,7 +71,7 @@ tags: [Spring, java, Project]
 
 |||
 | ------------------------------ | :----------------------------------: |
-|  사진 |   <img src="../assets/img/gabom/somoim_board_1.JPG" width="33%"> <img src="../assets/img/gabom/somoim_board_2.JPG" width="33%"> <img src="../assets/img/gabom/somoim_board_3.JPG" width="33%"> |
+|  사진 |   <img src="../assets/img/gabom/somoim_board_1.JPG" width="33%" height="250px"> <img src="../assets/img/gabom/somoim_board_2.JPG" width="33%"> <img src="../assets/img/gabom/somoim_board_3.JPG" width="33%" > |
 |  내용 |    소모임 첫화면입니다, 방장은 정모를 만들 수 있으며, <br> 만들어진 정모에 내용과 참석 여부, 참석자 명단을 볼 수 있습니다.|
 
 
