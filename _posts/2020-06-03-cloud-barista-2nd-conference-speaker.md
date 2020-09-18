@@ -68,6 +68,7 @@ tags: [Spring, java, Project]
 <br><br><br>
 # 소모임 plot. 2 게시판 & 앨범
 - 게시판과 앨범은 비슷해서 게시판만 보여드리겠습니다.
+
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/somoim_board_1.JPG" width="33%"> <img src="../assets/img/gabom/somoim_board_2.JPG" width="33%"> <img src="../assets/img/gabom/somoim_board_3.JPG" width="33%"> |
