@@ -72,7 +72,7 @@ tags: [Spring, java, Project]
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/somoim_board_1.JPG" width="33%" height="250px"> <img src="../assets/img/gabom/somoim_board_2.JPG" width="33%"> <img src="../assets/img/gabom/somoim_board_3.JPG" width="33%" > |
-|  내용 |    소모임 첫화면입니다, 방장은 정모를 만들 수 있으며, <br> 만들어진 정모에 내용과 참석 여부, 참석자 명단을 볼 수 있습니다.|
+|  내용 |    -첫번째, 게시판 리스트 입니다. <br> -두번째, 게시판 작성 form <br> -세번째, 해당 게시글에 대하여 좋아요, 댓글, 댓글 페이징 구현 |
 
 
 
