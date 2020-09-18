@@ -66,7 +66,7 @@ tags: [Spring, java, Project]
 |  내용 |    - 첫번째, 정모를 만들기 위한 form 이며 지도API도 구현. <br> -두번째, 만들어진 정모에 대한 내용을 보는 화면. <br> -세번째, 참석자 리스트.|
 
 <br><br><br>
-# 소모임 plot. 2 게시판 & 앨범
+# 소모임 plot. 3 게시판 & 앨범
 - 게시판과 앨범은 비슷해서 게시판만 보여드리겠습니다.
 
 |||
@@ -74,7 +74,24 @@ tags: [Spring, java, Project]
 |  사진 |   <img src="../assets/img/gabom/somoim_board_1.JPG" width="33%" height="250px"> <img src="../assets/img/gabom/somoim_board_2.JPG" width="33%"> <img src="../assets/img/gabom/somoim_board_3.JPG" width="33%" > |
 |  내용 |    -첫번째, 게시판 리스트 입니다. <br> -두번째, 게시판 작성 form <br> -세번째, 해당 게시글에 대하여 좋아요, 댓글, 댓글 페이징 구현 |
 
+<br><br><br>
+# 소모임 plot. 4 채팅
 
+
+|||
+| ------------------------------ | :----------------------------------: |
+|  사진 |   <img src="../assets/img/gabom/chatting_1.gif" width="900px" height="250px">  |
+|  내용 |    -첫번째, 채팅 GIF 입니다. 스크롤올리면 예전 채팅데이터를 가져오도록 구현했고, 그 채팅데이터의 날짜도 볼수 있게 끔 구현했습니다 |
+
+
+<br><br><br>
+# 소모임 plot. 4 알람
+
+
+|||
+| ------------------------------ | :----------------------------------: |
+|  사진 |   <img src="../assets/img/gabom/somoim_a_1.JPG" width="45%" > <img src="../assets/img/gabom/somoim_a_2.JPG" width="45%">  |
+|  내용 |    -첫번째 사진에서 정모게시판을 만들면, <br> -두번째 사진에서 처럼, 정모 맴버들에게 알림이 가게됩니다. <br> 알람 클릭시 해당 소모임으로 이동하게 됩니다.|
 
 
 
