@@ -50,11 +50,11 @@ tags: [Spring, java, Project]
 |  내용 |    - 첫번째, 숙소가능한 리스트 <br> -두번째, 예약과 리뷰|
 
 <br><br><br>
-# 소모임 
+# 소모임 plot. 1 
 |||
 | ------------------------------ | :----------------------------------: |
-|  사진 |   <img src="../assets/img/gabom/food1.JPG" width="900px"> <hr>   <img src="../assets/img/gabom/food2.JPG" width="900px%"> |
-|  내용 |    - 첫번째, 숙소가능한 리스트 <br> -두번째, 예약과 리뷰|
+|  사진 |   <img src="../assets/img/gabom/somoim_main_1.JPG" width="45%"> <hr>   <img src="../assets/img/gabom/somoim_main_2.JPG" width="45%"> |
+|  내용 |    - 첫번째, 검색과 소모임 만들 수 있습니다. <br> -두번째, 가입한 소모임 리스트 입니다.|
 
 
 
