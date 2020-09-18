@@ -62,7 +62,7 @@ tags: [Spring, java, Project]
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/jungmo_1.JPG" width="900px"> |
 |  내용 |    - 첫번째, 검색과 소모임 만들 수 있습니다. <br> -두번째, 가입한 소모임 리스트 입니다.|
-|  사진 |   <img src="../assets/img/gabom/jungmo_2.JPG" width="30%">  <img src="../assets/img/gabom/jungmo_3.JPG" width="30%"> <img src="../assets/img/gabom/jungmo_4.JPG" width="30%"> |
+|  사진 |   <img src="../assets/img/gabom/jungmo_2.JPG" height="100%" width="30%">  <img src="../assets/img/gabom/jungmo_3.JPG" height="100%" width="30%"> <img src="../assets/img/gabom/jungmo_4.JPG" height="100%" width="30%"> |
 |  내용 |    - 첫번째, 검색과 소모임 만들 수 있습니다. <br> -두번째, 가입한 소모임 리스트 입니다.|
 
 
