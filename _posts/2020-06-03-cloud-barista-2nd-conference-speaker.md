@@ -39,8 +39,24 @@ tags: [Spring, java, Project]
 # 숙박 page 2 - 현 플렛폼에 원하는 숙소가 없을 경우, 크롤러를 통해 호텔스컴바인에서 원하는 숙소 데이터를 가져옴
 |||
 | ------------------------------ | :----------------------------------: |
-|  사진 |   <img src="../assets/img/gabom/house2_1.JPG.JPG" width="900px"> <hr>   <img src="../assets/img/gabom/house2_2.JPG" width="900px%"> |
+|  사진 |   <img src="../assets/img/gabom/house2_1.JPG" width="900px"> <hr>   <img src="../assets/img/gabom/house2_2.JPG" width="900px%"> |
 |  내용 |    - 첫번째, 지역과 날짜를 검색할 경우, 크롤러를 통해 호텔스컴바인의 데이터를 가져왔습니다..<br> -두번째, 숙소 클릭시, 호텔스컴바인 홈페이지로 이동하게 됩니다.|
+
+<br><br><br>
+# 맛집 - 숙박과 동일한 형태입니다.
+|||
+| ------------------------------ | :----------------------------------: |
+|  사진 |   <img src="../assets/img/gabom/food1.JPG" width="900px"> <hr>   <img src="../assets/img/gabom/food2.JPG" width="900px%"> |
+|  내용 |    - 첫번째, 숙소가능한 리스트 <br> -두번째, 예약과 리뷰|
+
+<br><br><br>
+# 소모임 
+|||
+| ------------------------------ | :----------------------------------: |
+|  사진 |   <img src="../assets/img/gabom/food1.JPG" width="900px"> <hr>   <img src="../assets/img/gabom/food2.JPG" width="900px%"> |
+|  내용 |    - 첫번째, 숙소가능한 리스트 <br> -두번째, 예약과 리뷰|
+
+
 
 
 
