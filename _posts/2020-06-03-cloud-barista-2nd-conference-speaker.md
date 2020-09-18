@@ -20,7 +20,7 @@ tags: [Spring, java, Project]
 
 
 <br><br><br>
-# 메인페이지
+# 메인페이지ㅎㅎ
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/main1.JPG" width="30%">   <img src="../assets/img/gabom/main2.JPG" width="30%"> <img src="../assets/img/gabom/main3.JPG" width="30%">|
