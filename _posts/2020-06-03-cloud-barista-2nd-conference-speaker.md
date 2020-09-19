@@ -106,7 +106,7 @@ tags: [Spring, java, Project]
 
 |||||
 | ------------------------------ | :----------------------------------: |:----------------------------------: |:----------------------------------: |
-|  사진 |   <img src="../assets/img/gabom/trip_main_1.JPG" width="33%" > | <img src="../assets/img/gabom/trip_main_2.JPG" width="33%" > | <img src="../assets/img/gabom/trip_main_3.JPG" width="33%" >  |
+|  사진 |   <img src="../assets/img/gabom/trip_main_1.JPG" width="100%" > | <img src="../assets/img/gabom/trip_main_2.JPG" width="100%" > | <img src="../assets/img/gabom/trip_main_3.JPG" width="100%" >  |
 |  내용 |    -여행 메인사진 상단에 [내여행]이라는 메뉴를 누를 경우 나타납니다.<br> - 같은 여행 맴버, 초대, 날짜 변경, 여행계획 삭제가 있습니다 |   -여행 계획 초대시, 초대된 사람은 알람창이 뜨고 클릭하면 여행페이지로 이동됩니다 |   - 좌측 메뉴에 요청 받은 계획에 승인, 거절을 할 수 있습니다. |
 
 
