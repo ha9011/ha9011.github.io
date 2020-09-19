@@ -114,6 +114,7 @@ tags: [Spring, java, Project]
 # 여행 plot. 3 특정 여행 계획
 - ㅎ
 <br>
+
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/trip_detail_1.JPG" width="900px" >   |
