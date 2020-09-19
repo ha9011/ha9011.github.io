@@ -20,7 +20,8 @@ tags: [Spring, java, Project]
 
 
 <br><br><br>
-# 메인페이지ㅎㅎ
+# 메인페이지
+
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/main1.JPG" width="30%">   <img src="../assets/img/gabom/main2.JPG" width="30%"> <img src="../assets/img/gabom/main3.JPG" width="30%">|
@@ -28,6 +29,7 @@ tags: [Spring, java, Project]
 
 <br><br><br>
 # 숙박 page 1 - 호스트가 운영자에게 등록된 집
+
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |    <img src="../assets/img/gabom/house1_1.JPG" width="900px"> <hr> <img src="../assets/img/gabom/house1_2.JPG" width="900px"> <hr> <img src="../assets/img/gabom/house1_3.JPG" width="900px">|
@@ -37,6 +39,7 @@ tags: [Spring, java, Project]
 
 <br><br><br>
 # 숙박 page 2 - 현 플렛폼에 원하는 숙소가 없을 경우, 크롤러를 통해 호텔스컴바인에서 원하는 숙소 데이터를 가져옴
+
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/house2_1.JPG" width="900px"> <hr>   <img src="../assets/img/gabom/house2_2.JPG" width="900px%"> |
@@ -44,6 +47,7 @@ tags: [Spring, java, Project]
 
 <br><br><br>
 # 맛집 - 숙박과 동일한 형태입니다.
+
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/food1.JPG" width="900px"> <hr>   <img src="../assets/img/gabom/food2.JPG" width="900px%"> |
@@ -51,6 +55,7 @@ tags: [Spring, java, Project]
 
 <br><br><br>
 # 소모임 plot. 1 첫화면
+
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/somoim_main_1.JPG" width="45%"> <hr>   <img src="../assets/img/gabom/somoim_main_2.JPG" width="45%"> |
@@ -58,6 +63,7 @@ tags: [Spring, java, Project]
 
 <br><br><br>
 # 소모임 plot. 2 정모
+
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/jungmo_1.JPG" width="900px"> |
@@ -98,13 +104,13 @@ tags: [Spring, java, Project]
 <br><br><br>
 # 여행 plot. 1 메인
 
-
 |||
 | ------------------------------ | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/trip_main_0.JPG" width="900px" >   |
 |  내용 |    -여행계획을 만들거나, 추천여행보기에서 여행을 검색해서 저장 할 수 있습니다.|
 
 # 여행 plot. 2 내 여행
+
 |||||
 | ------------------------------ | :----------------------------------: |:----------------------------------: |:----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/trip_main_1.JPG" width="100%" > | <img src="../assets/img/gabom/trip_main_2.JPG" width="100%" > | <img src="../assets/img/gabom/trip_main_3.JPG" width="100%" >  |
