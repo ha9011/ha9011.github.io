@@ -47,7 +47,7 @@ tags: [Spring, java, Project]
 
 ||||
 |  사진 |   <img src="../assets/img/gabom/house1_4.JPG" width="900px"> | <img src="../assets/img/gabom/house1_5.JPG" width="900px">|
-|  내용 |   지역을 검색합니다 | 검색된 지역에 대한 숙소 리스트와 지도안에 마커로 표시했고, 마커에 포인트를 올리면 해당 숙소에 대한 사진이 나옵니다 |
+|  내용 |   지역을 검색합니다. | 검색된 지역에 대한 숙소 리스트와 지도안에 마커로 표시했고, 마커에 포인트를 올리면 해당 숙소에 대한 사진이 나옵니다 |
 
 <br><br><br>
 # 숙박 plot.2 - 등록 외 숙소 리스트 검색 (with 크롤링, j-soup) 
