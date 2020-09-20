@@ -106,7 +106,7 @@ tags: [Spring, java, Project]
 - 게시글에는 좋아요, 댓글을 남길 수 있고 댓글이 많아 질 경우 PAGING 처리를 했습니다. 
 <br>
 
-|||
+|||||
 | ------------------------------ | :----------------------------------: | :----------------------------------: | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/somoim_board_1.JPG" width="900px" > <img src="../assets/img/gabom/somoim_board_2.JPG" width="900px"> <img src="../assets/img/gabom/somoim_board_3.JPG" width="900px" > |
 |  내용 |  게시판 리스트 입니다. | 게시판 작성 form |  해당 게시글에 대하여 좋아요, 댓글, 댓글 페이징 구현 |
@@ -121,7 +121,7 @@ tags: [Spring, java, Project]
 
 |||
 | ------------------------------ | :----------------------------------: |
-|  사진 |   <img src="../assets/img/gabom/chatting_1.gif" width="900px"   |
+|  사진 |   <img src="../assets/img/gabom/chatting_1.gif" width="900px">   |
 |  내용 |    채팅 GIF 입니다. <br> 스크롤올리면 예전 채팅데이터를 가져오도록 구현했고 <br> 그 채팅데이터의 날짜도 볼수 있게 끔 구현했습니다 |
 
 
@@ -131,7 +131,7 @@ tags: [Spring, java, Project]
 - 알림을 클릭한 유저는 해당 소모임으로 페이지 이동하게 됩니다.
 <br>
 
-|||
+||||
 | ------------------------------ | :----------------------------------: |  :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/somoim_a_1.JPG" width="900px" > | <img src="../assets/img/gabom/somoim_a_2.JPG" width="900px">  |
 |  내용 |    방장이 정모를 만들 때, | 정모 맴버들에게 알림이 가게됩니다. <br> 알람 클릭시 해당 소모임으로 이동하게 됩니다.|
