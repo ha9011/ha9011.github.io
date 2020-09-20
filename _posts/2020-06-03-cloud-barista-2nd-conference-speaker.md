@@ -96,6 +96,7 @@ tags: [Spring, java, Project]
 <br>
 
 |||||
+| ------------------------------ | :----------------------------------: | :----------------------------------: | :----------------------------------: |
 |  사진 |   <img src="../assets/img/gabom/jungmo_2.JPG"  width="900px">  | <img src="../assets/img/gabom/jungmo_3.JPG"  width="900px"> | <img src="../assets/img/gabom/jungmo_4.JPG"  width="900px"> |
 |  내용 |    정모를 만들기 위한 form 이며 지도API도 구현. | 만들어진 정모를 클릭하면 내용을 보는 화면. | 참석자 리스트.|
 
@@ -108,7 +109,7 @@ tags: [Spring, java, Project]
 
 |||||
 | ------------------------------ | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-|  사진 |   <img src="../assets/img/gabom/somoim_board_1.JPG" width="900px" > <img src="../assets/img/gabom/somoim_board_2.JPG" width="900px"> <img src="../assets/img/gabom/somoim_board_3.JPG" width="900px" > |
+|  사진 |   <img src="../assets/img/gabom/somoim_board_1.JPG" width="900px" >| <img src="../assets/img/gabom/somoim_board_2.JPG" width="900px"> |<img src="../assets/img/gabom/somoim_board_3.JPG" width="900px" > |
 |  내용 |  게시판 리스트 입니다. | 게시판 작성 form |  해당 게시글에 대하여 좋아요, 댓글, 댓글 페이징 구현 |
 
 <br><br><br>
